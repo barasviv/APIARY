@@ -6,8 +6,9 @@ This API manipulates the students information of College.
 
 ## Students Collection [/students]
 
+    
 ### Get Students list [GET]
-
+This operation retrieves the list of all students
 + Response 200 (application/json)
 
         [
@@ -30,7 +31,7 @@ This API manipulates the students information of College.
         ]  
 
 ### Add Student [POST]    
-
+This operation can be used to add a new student record.
 + Request (application/json)
         
         {
@@ -42,4 +43,12 @@ This API manipulates the students information of College.
         
         {
             "Status" : "Student added successfully."
+        }
+
+
+        
++ Response 400 (application/json)
+        
+        {
+            "Status" : "Bad Request"
         }
