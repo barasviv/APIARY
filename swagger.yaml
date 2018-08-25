@@ -27,9 +27,9 @@ paths:
         						"account_number": "4859634",
         						"name": "Darko",
         						"gas_usage": "20,006 Btu",
-        						"gas_cost": "¬• 46,896",
+        						"gas_cost": "¥ 46,896",
         						"electricity_usage": "3,430 kW",
-        						"electricity_cost": "¬• 12,932",
+        						"electricity_cost": "¥ 12,932",
         						"environment": "Japan 1"
         					}
         				]
@@ -55,9 +55,9 @@ paths:
           					"account_number": "4859634",
           					"name": "Darko",
           					"gas_usage": "30,000 Btu",
-          					"gas_cost": "¬• 56,436",
+          					"gas_cost": "¥ 56,436",
           					"electricity_usage": "2,920 kW",
-          					"electricity_cost": "¬• 8,210",
+          					"electricity_cost": "¥ 8,210",
           					"environment": "Japan 1"
         					}
         				]
@@ -82,9 +82,9 @@ paths:
         						"account_number": "5845241",
         						"name": "John",
         						"gas_usage": "45,200 Btu",
-        						"gas_cost": "¬• 73,295",
+        						"gas_cost": "¥ 73,295",
         						"electricity_usage": "0 kW",
-        						"electricity_cost": "¬• 0",
+        						"electricity_cost": "¥ 0",
         						"environment": "Japan 1"
         					}
         				]
@@ -110,9 +110,9 @@ paths:
           					"account_number": "5845241",
           					"name": "John",
           					"gas_usage": "923,100 Btu",
-          					"gas_cost": "¬• 453,332",
+          					"gas_cost": "¥ 453,332",
           					"electricity_usage": "0 kW",
-          					"electricity_cost": "¬• 0",
+          					"electricity_cost": "¥ 0",
           					"environment": "Japan 1"
         					}
         				]
