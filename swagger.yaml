@@ -22,17 +22,7 @@ paths:
           description: Gas & Electricity usage response for current month
           examples:
             application/json:
-                [
-        					{
-        						"account_number": "4859634",
-        						"name": "Darko",
-        						"gas_usage": "20,006 Btu",
-        						"gas_cost": "¥ 46,896",
-        						"electricity_usage": "3,430 kW",
-        						"electricity_cost": "¥ 12,932",
-        						"environment": "Japan 1"
-        					}
-        				]
+                
           schema:
             $ref: '#/definitions/Usage'
         default:
